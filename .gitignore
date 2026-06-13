@@ -1,29 +1,7 @@
-# Сміття ОС
 .DS_Store
-Thumbs.db
-ehthumbs.db
-
-# Кеш та налаштування IDE
 .idea/
 .vscode/
-*.swp
-*.swo
-
-# Теки збірки (Build artifacts)
-/build/
-/bin/
-/out/
 *.exe
-*.dll
-*.obj
-*.o
-*.a
-
-# Python/інше сміття (якщо знадобиться)
 __pycache__/
 venv/
-*.log
-
-# Моделі (зазвичай не комітять, бо вони великі)
-*.caffemodel
-*.prototxt
+node_modules/
